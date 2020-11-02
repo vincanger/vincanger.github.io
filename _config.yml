@@ -95,14 +95,14 @@ analytics:
 author:
   name             : "Vince Canger"
   avatar           : "/assets/vince_smiley.jpg"
-  bio              : "Full-Stack Engineer in Training"
+  bio              : "Full-Stack Developer in Training"
   location         : "Bensheim, Germany"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vincager@gmail.com"
-    - label: "Website"
+      url: "mailto:vincanger@gmail.com"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/vincecanger"
     - label: "Twitter"
@@ -279,3 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
