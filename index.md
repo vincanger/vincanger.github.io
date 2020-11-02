@@ -2,8 +2,7 @@
 layout: home
 author_profile: true
 ---
-
-# HOT TOWN
+# Vince
 ---
 Welcome to my humble GitHub Page.  
 This page is constantly being updated as I learn.
