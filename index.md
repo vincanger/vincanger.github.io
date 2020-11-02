@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 # HOT TOWN
 ---
 Welcome to my humble GitHub Page.  
