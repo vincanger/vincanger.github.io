@@ -1,9 +1,2 @@
 theme: jekyll-theme-minimal
-
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - about.md
+logo: /media/vince_smiley.jpg
