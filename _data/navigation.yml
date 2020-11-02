@@ -1,9 +1,7 @@
 # main links
 main:
    - title: "Learning Projects"
-    url: https://vincanger.github.io/coding_projects/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+     url: https://vincanger.github.io/coding_projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
