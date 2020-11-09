@@ -114,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vincanger"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Music & Sound Design"
+      icon: "fas fa-fw fa-music"
+      url: "https://hottownmusic.weebly.com"
 
 # Site Footer
 footer:
