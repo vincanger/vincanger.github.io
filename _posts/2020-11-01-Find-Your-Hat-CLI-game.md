@@ -1,0 +1,16 @@
+---
+title: "NodeJS "Find Your Hat" CLI Game"
+date: 2020-11-01
+tags: [NodeJS, Command Line, Javascript]
+excerpt: "Using Node, JS Classes, and the Terminal for fun!"
+---
+
+[NodeJS "Find Your Hat" CLI Game](https://github.com/vincanger/coding_projects/tree/master/find-your-hat-game) - A simple game using Node and JavaScript Classes
+
+## About
+Find Your Hat is a simple CLI game created as a project for the CodeCademy Full-Stack Engineer career path. The objective was to creat a simple game using knowledge of JavaScript classes and NodeJS.  
+
+## How to play
+Download or clone the repository, install Node, and type `node main.js` into the terminal.  
+The **instructions** will appear after clicking enter.  
+Have fun!
