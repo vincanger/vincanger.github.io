@@ -142,6 +142,7 @@ footer:
 
 
 # Reading Files
+include: ["_pages"]
 include:
   - .htaccess
   - _pages
@@ -287,3 +288,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+      
