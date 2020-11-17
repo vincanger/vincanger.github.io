@@ -1,5 +1,5 @@
 ---
-title: "Mixed Messages - Responsive JS Demo"
+title: "Mixed Messages Responsive JS Demo"
 date: 2020-10-04
 tags: [Javascript, CSS, HTML5]
 excerpt: "Random inspirational content with each button click!"
