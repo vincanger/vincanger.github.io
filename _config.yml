@@ -22,7 +22,7 @@ subtitle                 : Full-Stack Developer
 name                     : "Vince Canger"
 description              : "Check me out"
 url                      : "vincanger.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : /vincanger
 repository               : "vincanger"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #
