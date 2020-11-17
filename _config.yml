@@ -22,7 +22,7 @@ subtitle                 : Full-Stack Developer
 name                     : "Vince Canger"
 description              : "Check me out"
 url                      : "vincanger.github.io"
-baseurl                  : /vincanger
+baseurl                  : # /vincanger
 repository               : "vincanger"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #
@@ -142,7 +142,6 @@ footer:
 
 
 # Reading Files
-include: ["_pages"]
 include:
   - .htaccess
   - _pages
@@ -248,16 +247,6 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# i added this HERE!
-jekyll-archives:
-  enabled: []
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 # jekyll-archives:
 #   enabled:
 #     - categories
