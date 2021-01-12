@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Vince Canger"
 title_separator          : "-"
-subtitle                 : Full-Stack Developer
+subtitle                 : "Junior Back-end Developer"
 name                     : "Vince Canger"
 description              : "Check me out"
 url                      : "vincanger.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Vince Canger"
   avatar           : "/assets/vince_smiley.jpg"
-  bio              : "Full-Stack Developer in Training"
+  bio              : "Junior Back-end Developer"
   location         : "Bensheim, Germany"
   email            :
   links:
