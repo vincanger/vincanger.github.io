@@ -17,6 +17,6 @@ This was a learning project. My goals were:
 3. Learn and apply user authentication ✅
 4. Expirement with React and make it a full-stack app ✅
 5. Deploy it successfully to Heroku ❌
-    - (Authentication works fine on my local machine, but doesn't after being deployed to heroku. There seems to be a problem in the front-end request. Any help in this domain would be appreciated :thumbsup:)
+    - (Authentication works fine on my local machine, but doesn't after being deployed to heroku. There seems to be a problem in the front-end request. Any help in this domain would be appreciated 👍)
     - https://music-notes-pern.herokuapp.com/
 
