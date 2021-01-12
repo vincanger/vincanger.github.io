@@ -8,7 +8,7 @@ excerpt: "Full-Stack PERN app!"
 A full-stack PERN App (Postgres, Express, React, NodeJS). Check it out on [GitHub](https://github.com/vincanger/PERN-music-notes/)
 
 ## Preview
-<img src="https://github.com/vincanger/PERN-music-notes/blob/main/music-app-preview.gif" width="70%" height="70%" />
+<img src="https://github.com/vincanger/PERN-music-notes/blob/main/music-app-preview.gif"/>
 
 ## Objective 
 This was a learning project. My goals were:
