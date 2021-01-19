@@ -11,8 +11,7 @@ view the blog on [repl.it](https://blog.vincanger.repl.co)
 - Create my own blog using NodeJS ✅
 - Learn `fs` commands in NodeJS ✅
 - Convert Markdown files to HTML using the `marked` module ✅
-- Create an Express server and host it on repl.it ✅
-  - [https://blog.vincanger.repl.co](https://blog.vincanger.repl.co)
+- Create an Express server and host it on [repl.it](https://blog.vincanger.repl.co) ✅
 - ✌
 
 ### How the code works:
@@ -21,7 +20,7 @@ view the blog on [repl.it](https://blog.vincanger.repl.co)
 - The `marked` module converts MD to HTML
 - and the magic of JavaScript puts it all together 🧙‍♂️
 
-
+### snippet
 ```JavaScript
 const createPost = postPath => {
   const data = fs.readFileSync(`${config.dev.postsdir}/${postPath}.md`, "utf8");
