@@ -18,3 +18,13 @@ excerpt: "Simple, static blog generator made with NodeJS"
 - Front-matter within the posts gets parsed
 - The `marked` module converts MD to HTML
 - and the magic of JavaScript puts it all together 🧙‍♂️
+
+```JavaScript
+const createPost = postPath => {
+  const data = fs.readFileSync(`${config.dev.postsdir}/${postPath}.md`, "utf8");
+  const content = fm(data);
+  content.body = marked(content.body);
+  content.path = postPath;
+  return content;
+};
+```
