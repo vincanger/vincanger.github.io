@@ -1,6 +1,6 @@
 ---
 title: "Music Notes - PERN app"
-date: 2020-30-12
+date: 2020-12-30
 tags: [PERN, ExpressJS, React, SQL]
 excerpt: "Full-Stack PERN app!"
 ---
