@@ -4,7 +4,8 @@ date: 2021-02-22
 tags: [Passport, ExpressJS, Redis, Sequelize]
 excerpt: "Local Authentication with Passport, Redis caching, Sequelize ORM"
 ---
-see the code on [GitHub](https://github.com/vincanger/photo-caption-api)
+
+see the code on >>> [GitHub](https://github.com/vincanger/photo-caption-api)
 
 ## Description
 
