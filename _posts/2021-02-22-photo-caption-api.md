@@ -5,12 +5,12 @@ tags: [Passport, ExpressJS, Redis, Sequelize]
 excerpt: "Local Authentication with Passport, Redis caching, Sequelize ORM"
 ---
 
-see the code on >> [GitHub](https://github.com/vincanger/photo-caption-api)
-
 ## Description
 
 This is an API that allows the client/users to add captions to photos.
 The server runs on ExpressJS, Passport for local authentication, Redis to cache user sessions, and Sequelize as the ORM to communicate with a Postgres database.
+
+see the code on >> [GitHub](https://github.com/vincanger/photo-caption-api)
 
 ### Preview
 
