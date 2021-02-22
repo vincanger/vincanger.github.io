@@ -1,6 +1,6 @@
 ---
 title: "Photo Caption API"
-date: 2021-01-19
+date: 2021-02-22
 tags: [Passport, ExpressJS, Redis, Sequelize]
 excerpt: "Local Authentication with Passport, Redis caching, Sequelize ORM"
 ---
