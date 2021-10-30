@@ -18,11 +18,13 @@ This is simple full-stack user/admin management app using Angular and Spring Boo
 
 ### Preview
 
-<img src="https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true" />
+<img src="https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true" width="70%" height="70%"/>
 
 
-Check out the code on GitHub
+Check out the code on GitHub >> 
+
 >> [Angular Frontend](https://github.com/vincanger/TopSecretSchnupperDevChallengeFrontend/tree/BTB-30/food-friends)
+
 >> [Spring Boot Backend](https://github.com/vincanger/TopSecretSchnupperDevChallenge/tree/BTB-28/src/main/java/com/amiconsult/topsecretschnupperdevchallenge)
 
 ### Objective
