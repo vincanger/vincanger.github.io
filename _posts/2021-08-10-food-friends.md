@@ -7,7 +7,7 @@ excerpt: "full-stack user/admin management app"
 
 ## Description
 
-This is simple full-stack user/admin management app using Angular and Spring Boot. Its features include:
+This is a full-stack user/admin management app using Angular and Spring Boot. Its features include:
 
 - Admin priveleges for managing user data
 - Reset password via email, token, and security question validation
