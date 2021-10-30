@@ -18,7 +18,7 @@ This is simple full-stack user/admin management app using Angular and Spring Boo
 
 ### Preview
 
-<img src="https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true" width="70%" height="70%"/>
+<img src="https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true" width="100%" height="100%"/>
 
 
 Check out the code on GitHub >> 
