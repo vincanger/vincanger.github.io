@@ -18,7 +18,7 @@ This is simple full-stack user/admin management app using Angular and Spring Boo
 
 ### Preview
 
-<img src="https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true" width="100%" height="100%"/>
+<img src="https://raw.githubusercontent.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true" width="70%" height="70%"/>
 
 
 Check out the code on GitHub >> 
@@ -31,4 +31,4 @@ Check out the code on GitHub >>
 
 To develop further full-stack skills and learn new languages and frameworks.
 
-I did not get around to deploying this app, but I learned a lot about many-to-many relationships, authentication, authorization, angular and material ui, serving paginated results, and a lot more.
+I did not get around to deploying this app, and there are a lot of loose ends, but I learned a lot about many-to-many relationships, authentication, authorization, angular and material ui, serving paginated results, testing, and a lot more.
