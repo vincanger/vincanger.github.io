@@ -18,7 +18,7 @@ This is simple full-stack user/admin management app using Angular and Spring Boo
 
 ### Preview
 
-<img src="/assets/vince_smiley.jpg" />
+<img src="/assets/foodfriends-preview.jpg" />
 
 Checkout a preview video >>
 
