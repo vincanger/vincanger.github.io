@@ -22,10 +22,8 @@ This is a full-stack user/admin management app using Angular and Spring Boot. It
 Click here for a [larger view](https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/README.md)
 
 And check out the code on GitHub >> 
-
-[Angular Frontend](https://github.com/vincanger/TopSecretSchnupperDevChallengeFrontend/tree/BTB-30/food-friends)
-
-[Spring Boot Backend](https://github.com/vincanger/TopSecretSchnupperDevChallenge/tree/BTB-28/src/main/java/com/amiconsult/topsecretschnupperdevchallenge)
+ - [Angular Frontend](https://github.com/vincanger/TopSecretSchnupperDevChallengeFrontend/tree/BTB-30/food-friends)
+ - [Spring Boot Backend](https://github.com/vincanger/TopSecretSchnupperDevChallenge/tree/BTB-28/src/main/java/com/amiconsult/topsecretschnupperdevchallenge)
 
 ### Objective
 
