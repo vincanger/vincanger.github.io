@@ -18,9 +18,8 @@ This is a full-stack user/admin management app using Angular and Spring Boot. It
 
 ### Preview
 
-<img src="/assets/foodfriends-preview.jpg" />
-
-Checkout a preview >> [Video](https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/README.md)
+[<img src="https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/foodfriends-demo.gif?raw=true">](https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/README.md)
+Click here for a [larger view](https://github.com/vincanger/TopSecretSchnupperDevChallenge/blob/BTB-28/README.md)
 
 And check out the code on GitHub >> 
 
