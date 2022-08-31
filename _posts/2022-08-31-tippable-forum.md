@@ -27,9 +27,14 @@ I also a built a simple swap tool/Automate Market Maker to transfer from a fake 
 
 <img src="https://i.imgur.com/dk4bxJS.gif">
 
-### Code
+### Live App & Code
 
-Check out the code on GitHub for both the front-end NextJS app, as well as the Hardhat Project and Solidity contracts >>
+The Tippable Q&A Forum on Polygon app is deployed live on Vercel, and on Polygon Mumbai:
+- [Live dApp -- https://defi-on-polygon.vercel.app/](https://defi-on-polygon.vercel.app/)
+- [Forum contract](https://mumbai.polygonscan.com/address/0xe872B752389AfA71aB213fF2f038404854cD7b80#code)
+- [AMM contract](https://mumbai.polygonscan.com/address/0xC0011Aaa2d7b0C4AD65C83518bc0aA16Ac49E9a2#code)
+
+Check out the code on GitHub for both the NextJS app, as well as the Hardhat Project files, Test files, and Solidity contracts >>
 
  - [https://github.com/vincanger/defi-on-polygon](https://github.com/vincanger/defi-on-polygon)
 
@@ -37,7 +42,7 @@ Check out the code on GitHub for both the front-end NextJS app, as well as the H
 
 <img src="https://i.imgur.com/agrZ564.gif">
 
-This project was originally intended as a long-form tutorial for Pointer.gg before the company pivoted. I created a handful of interactive explainers to help explain the concepts of ERC20 tokens and Automated Market Makers, an example of which can be seen above:
+This project was originally intended as a long-form tutorial for Pointer.gg before the company pivoted. I created a number of interactive explainer components to help explain the concepts of ERC20 tokens and Automated Market Makers (above). Here are the drafts:
 
 - [DeFi on Polygon, Part 1](https://www.notion.so/DeFi-on-Polygon-Part-1-f266d0dc3c4c4295bb5ab0d9301537c3)
 - [DeFi on Polygon, Part 2](https://www.notion.so/DeFi-on-Polygon-Part-2-2607411576b64395ac166b0be62b03d1)
