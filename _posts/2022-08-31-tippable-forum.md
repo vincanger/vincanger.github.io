@@ -21,6 +21,7 @@ The novel feature of this app is that everytime a user upvotes an answer, a "tip
   <source src="https://i.imgur.com/WCTd97y.mp4" type="video/mp4">
 </video>
 
+
 I chose this implementation to incentivize participation in the tipping scheme, without forcing users to have to pay a fee upfront when answering a question. This way, users can freely post questions and answers with minimal transaction fees thanks to Polygon. But, if they want be elligble to receive upvote tips from other uses, they have to acquire and hold the native ERC20 token. This also opens up other possibilities for the Forum to pay out "power users" or "super tippers" with the tips that the contract address receives. 
 
 I also a built a simple swap tool/Automate Market Maker to transfer from a fake `MATIC` contract, to the native `GOFLOW` token.
