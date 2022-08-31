@@ -17,9 +17,11 @@ The entire state for the app is saved on-chain on Polygon Mumbai and transaction
 
 The novel feature of this app is that everytime a user upvotes an answer, a "tip" is sent. If the answerer has a native token balance of >= 10, they receive the tip, if not it goes to the address of the Forum's smart contract.
 
-<video width="320" controls>
-  <source src="https://i.imgur.com/WCTd97y.mp4" type="video/mp4">
-</video>
+<div max-width="100%">
+  <video width="100%" controls>
+    <source src="https://i.imgur.com/WCTd97y.mp4" type="video/mp4">
+  </video>
+</div>
 
 
 I chose this implementation to incentivize participation in the tipping scheme, without forcing users to have to pay a fee upfront when answering a question. This way, users can freely post questions and answers with minimal transaction fees thanks to Polygon. But, if they want be elligble to receive upvote tips from other uses, they have to acquire and hold the native ERC20 token. This also opens up other possibilities for the Forum to pay out "power users" or "super tippers" with the tips that the contract address receives. 
