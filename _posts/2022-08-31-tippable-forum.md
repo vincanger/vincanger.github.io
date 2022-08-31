@@ -17,7 +17,7 @@ The entire state for the app is saved on-chain on Polygon Mumbai and transaction
 
 The novel feature of this app is that everytime a user upvotes an answer, a "tip" is sent. If the answerer has a native token balance of >= 10, they receive the tip, if not it goes to the address of the Forum's smart contract.
 
-<video controls>
+<video height="600" width="450" controls>
   <source src="https://i.imgur.com/WCTd97y.mp4" type="video/mp4">
 </video>
 
