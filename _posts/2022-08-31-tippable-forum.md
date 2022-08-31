@@ -17,11 +17,13 @@ The entire state for the app is saved on-chain on Polygon Mumbai and transaction
 
 The novel feature of this app is that everytime a user upvotes an answer, a "tip" is sent. If the answerer has a native token balance of >= 10, they receive the tip, if not it goes to the address of the Forum's smart contract.
 
-<img src="../assets/upvote.gif">
+<img src="https://i.imgur.com/WCTd97y.mp4">
 
 I chose this implementation to incentivize participation in the tipping scheme, without forcing users to have to pay a fee upfront when answering a question. This way, users can freely post questions and answers with minimal transaction fees thanks to Polygon. But, if they want be elligble to receive upvote tips from other uses, they have to acquire and hold the native ERC20 token. This also opens up other possibilities for the Forum to pay out "power users" or "super tippers" with the tips that the contract address receives. 
 
 I also a built a simple swap tool/Automate Market Maker to transfer from a fake `MATIC` contract, to the native `GOFLOW` token.
+
+<img src="https://i.imgur.com/dk4bxJS.gif">
 
 ### Code
 
@@ -31,7 +33,7 @@ Check out the code on GitHub for both the front-end NextJS app, as well as the H
 
 ### More Info
 
-<img src="../assets/20confetti.gif">
+<img src="https://i.imgur.com/agrZ564.gif">
 
 This project was originally intended as a long-form tutorial for Pointer.gg before the company pivoted. I created a handful of interactive explainers to help explain the concepts of ERC20 tokens and Automated Market Makers, an example of which can be seen above:
 
