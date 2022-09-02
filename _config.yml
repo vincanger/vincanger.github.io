@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vincanger@gmail.com"
     - label: "Resumé / CV"
-      icon: "fa fa-file"
+      icon: "fas fa-fw fa-file"
       url: "https://crimson-roof-ba8.notion.site/Vince-Canger-afd10fb180ae4728914f5882f92d67a4"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
