@@ -41,7 +41,7 @@ Check out the code on GitHub for both the NextJS app, as well as the Hardhat Pro
 
 ### More Info
 
-<img src="`https://i.imgur.com/agrZ564.gif`">
+<img src="https://i.imgur.com/agrZ564.gif">
 
 This project was originally intended as a long-form tutorial for Pointer.gg before the company pivoted. I created a number of interactive explainer components to help explain the concepts of ERC20 tokens and Automated Market Makers (example above). Here are the drafts:
 
