@@ -10,7 +10,7 @@ The [Tippable Q&A Forum on Polygon](https://defi-on-polygon.vercel.app/) is a pr
 
 - Post questions
 - Answer questions
-- Upvote answers using a native ERC20 Token
+- Upvote/Tip answers using a native ERC20 Token
 - Swap the native token
 
 All the above data lives on-chain on Polygon Mumbai.
@@ -23,7 +23,6 @@ The novel feature of this app is that everytime a user upvotes an answer, a "tip
   </video>
 </div>
 <br />
-
 I chose this implementation to incentivize participation in the tipping scheme, without forcing users to have to pay a fee upfront when posting a question. This way, users can freely post questions and answers with minimal transaction fees thanks to Polygon. But, if they want be elligble to receive upvote tips from other users, they have to acquire and hold the native ERC20 token. This also opens up other possibilities for the dApp itself to reward "power users" with the tips that the Forum contract address receives. 
 
 I also a built a simple swap tool/Automated Market Maker to exchange from a fake `MATIC` token, to the native `GOFLOW` token.
@@ -42,9 +41,13 @@ Check out the code on GitHub for both the NextJS app, as well as the Hardhat Pro
 
 ### More Info
 
-<img src="https://i.imgur.com/agrZ564.gif">
+<img src="`https://i.imgur.com/agrZ564.gif`">
 
 This project was originally intended as a long-form tutorial for Pointer.gg before the company pivoted. I created a number of interactive explainer components to help explain the concepts of ERC20 tokens and Automated Market Makers (example above). Here are the drafts:
 
 - [DeFi on Polygon, Part 1](https://www.notion.so/DeFi-on-Polygon-Part-1-f266d0dc3c4c4295bb5ab0d9301537c3)
 - [DeFi on Polygon, Part 2](https://www.notion.so/DeFi-on-Polygon-Part-2-2607411576b64395ac166b0be62b03d1)
+
+I've also distilled some of this information into an interactive, short-form blog article about ERC-20 tokens:
+
+- [An Interactive Explainer for ERC-20 Tokens](https://vincanger.hashnode.dev/an-interactive-explainer-for-erc-20-tokens)
