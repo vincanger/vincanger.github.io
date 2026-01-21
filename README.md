@@ -1,33 +1,44 @@
 # Vince Canger
 
-Software Engineer @ Wasp (https://wasp-lang.dev)
+Founding Developer Relations Engineer @ [wasp.sh](https://wasp.sh)  
 Berlin, Germany
 
 ## Links
 
-- GitHub:   https://github.com/vincanger
-- Twitter:  https://twitter.com/hot_town
+- GitHub: https://github.com/vincanger
+- Twitter: https://twitter.com/hot_town
 - LinkedIn: https://linkedin.com/in/vincecanger
-- Email:    vincanger@gmail.com
 
-## Projects
+## Open Source SaaS Projects
 
-- Open SaaS: https://opensaas.sh
-  Free, open-source SaaS starter with Wasp
+**Open SaaS**  
+Full-featured SaaS boilerplate starter with agent skills, payments with Stripe or Polar.sh, GPT wrapper demo app, file uploads with S3, analytics dashboard, and a lot more.  
+→ https://opensaas.sh
 
-- CoverLetterGPT: https://coverlettergpt.xyz
-  Generate cover letters from job descriptions + your CV
+**CoverLetterGPT**  
+Generate cover letters from job descriptions + your CV  
+→ https://coverlettergpt.xyz
 
-- Banger Tweet Bot: https://github.com/vincanger/banger-tweet-bot
-  Personal Twitter brainstorming agent
+## Content
 
-- Stargazer: https://github.com/vincanger/stargazer
-  Celebrate GitHub milestones with videos of your stargazers
+**Dude thinks SaaS will buy him a Lambo!?** [video]  
+→ https://youtu.be/rfO5SbLfyFE?si=w8gVZWWurCDFXiD4
+
+**100% off Open SaaS** [infomercial spoof produced with Google's Veo2 video model]  
+→ https://youtu.be/hRRaltGc8V0?si=DRRD_3ojlzTKZ3gM
+
+**Vibe code a fullstack app effectively** [tutorial]  
+→ https://youtu.be/WYzEROo7reY?si=Qh3qzMjlT_3tiuGN
+
+## Writing
+
+**Why Theo is Wrong and we will get a Laravel for JS**  
+→ https://wasp.sh/blog/2024/05/29/why-we-dont-have-laravel-for-javascript-yet
 
 ## About
 
-I build developer tools and write about full-stack web dev.
+I build developer tools and write about full-stack web dev.  
 Previously: Web3, freelance, music production.
 
 ---
-LLM-friendly: This page is plain text.
+made with [clawd.bot](https://clawd.bot) while in the bathtub 🛀

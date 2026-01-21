@@ -1,20 +1,27 @@
 # Vince Canger
 
-> Software Engineer @ Wasp. Building developer tools in Berlin.
+> Founding Developer Relations Engineer @ wasp.sh. Building developer tools in Berlin.
 
 ## Links
 
 - GitHub: https://github.com/vincanger
 - Twitter: https://twitter.com/hot_town
 - LinkedIn: https://linkedin.com/in/vincecanger
-- Email: vincanger@gmail.com
 
-## Projects
+## Open Source SaaS Projects
 
-- Open SaaS (https://opensaas.sh) - Free, open-source SaaS starter with Wasp
-- CoverLetterGPT (https://coverlettergpt.xyz) - Generate cover letters from job descriptions
-- Banger Tweet Bot - Personal Twitter brainstorming agent
-- Stargazer - Celebrate GitHub milestones with videos of stargazers
+- Open SaaS (https://opensaas.sh) - Full-featured SaaS boilerplate starter with agent skills, payments with Stripe or Polar.sh, GPT wrapper demo app, file uploads with S3, analytics dashboard, and more.
+- CoverLetterGPT (https://coverlettergpt.xyz) - Generate cover letters from job descriptions + your CV
+
+## Content
+
+- Dude thinks SaaS will buy him a Lambo!? [video] - https://youtu.be/rfO5SbLfyFE
+- 100% off Open SaaS [infomercial spoof with Google Veo2] - https://youtu.be/hRRaltGc8V0
+- Vibe code a fullstack app effectively [tutorial] - https://youtu.be/WYzEROo7reY
+
+## Writing
+
+- Why Theo is Wrong and we will get a Laravel for JS - https://wasp.sh/blog/2024/05/29/why-we-dont-have-laravel-for-javascript-yet
 
 ## About
 
