@@ -12,10 +12,10 @@ Send BTC to bc1q6wss58jnadq79m2uyhkn3zzng7pfq929zp89xx
 - Twitter: https://twitter.com/hot_town
 - LinkedIn: https://linkedin.com/in/vincecanger
 
-## Open Source SaaS Projects
+## Fullstack Web Apps
 
-- Open SaaS (https://opensaas.sh) - Full-featured SaaS boilerplate starter with agent skills, payments with Stripe or Polar.sh, GPT wrapper demo app, file uploads with S3, analytics dashboard, and more.
-- CoverLetterGPT (https://coverlettergpt.xyz) - Generate cover letters from job descriptions + your CV
+- Open SaaS (https://opensaas.sh) - Open-source, full-featured SaaS boilerplate starter with agent skills, payments with Stripe or Polar.sh, GPT wrapper demo app, file uploads with S3, analytics dashboard, and more.
+- CoverLetterGPT (https://coverlettergpt.xyz) - Open-source, $500 MRR. Generate cover letters from job descriptions + your CV
 
 ## Content
 

@@ -13,14 +13,14 @@ Send BTC to bc1q6wss58jnadq79m2uyhkn3zzng7pfq929zp89xx
 - Twitter: https://twitter.com/hot_town
 - LinkedIn: https://linkedin.com/in/vincecanger
 
-## Open Source SaaS Projects
+## Fullstack Web Apps
 
 **Open SaaS**  
-Full-featured SaaS boilerplate starter with agent skills, payments with Stripe or Polar.sh, GPT wrapper demo app, file uploads with S3, analytics dashboard, and a lot more.  
+Open-source, full-featured SaaS boilerplate starter with agent skills, payments with Stripe or Polar.sh, GPT wrapper demo app, file uploads with S3, analytics dashboard, and a lot more.  
 → https://opensaas.sh
 
 **CoverLetterGPT**  
-Generate cover letters from job descriptions + your CV  
+Open-source, $500 MRR. Generate cover letters from job descriptions + your CV  
 → https://coverlettergpt.xyz
 
 ## Content
@@ -45,4 +45,7 @@ I build developer tools and write about full-stack web dev.
 Previously: Web3, freelance, music production.
 
 ---
+LLM-friendly: This page is plain text.  
+Raw: https://raw.githubusercontent.com/vincanger/vincanger.github.io/master/README.md
+
 made with [clawd.bot](https://clawd.bot) while in the bathtub 🛀
