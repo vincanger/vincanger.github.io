@@ -1,0 +1,22 @@
+# Vince Canger
+
+> Software Engineer @ Wasp. Building developer tools in Berlin.
+
+## Links
+
+- GitHub: https://github.com/vincanger
+- Twitter: https://twitter.com/hot_town
+- LinkedIn: https://linkedin.com/in/vincecanger
+- Email: vincanger@gmail.com
+
+## Projects
+
+- Open SaaS (https://opensaas.sh) - Free, open-source SaaS starter with Wasp
+- CoverLetterGPT (https://coverlettergpt.xyz) - Generate cover letters from job descriptions
+- Banger Tweet Bot - Personal Twitter brainstorming agent
+- Stargazer - Celebrate GitHub milestones with videos of stargazers
+
+## About
+
+Full-stack web dev, developer tools, technical writing.
+Previously: Web3, freelance, music production.
